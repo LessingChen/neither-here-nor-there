@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.*
+.npm-cache
+.vercel/
+
+web/audit-screenshots/
+
+Visual Experiment/studies/
+Visual Experiment/references/
+Visual Experiment/outside-brief/
+Visual Experiment/print-studies/
+Visual Experiment/duplicates/
+Visual Experiment/移除背景/
+Visual Experiment/manifest.json
+
+popup.pages
+展陈示意图.png
+陳柳馨.jpg

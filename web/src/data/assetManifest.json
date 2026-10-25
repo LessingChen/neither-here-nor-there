@@ -1,0 +1,972 @@
+{
+  "slots": {
+    "coca-cola": {
+      "beijing": {
+        "folder": "cities/01-beijing-北京/coca-cola",
+        "files": [
+          {
+            "file": "北京 可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "北京 可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "北京 可乐3.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "北京 可乐4.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "北京.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-3040.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-4504.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-7088.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "kyoto": {
+        "folder": "cities/02-kyoto-京都/coca-cola",
+        "files": [
+          {
+            "file": "京都.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "京都1.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "京都2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "京都3.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "tokyo": {
+        "folder": "cities/03-tokyo-东京/coca-cola",
+        "files": [
+          {
+            "file": "东京 可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "东京 可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "东京.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "seoul": {
+        "folder": "cities/04-seoul-首尔/coca-cola",
+        "files": [
+          {
+            "file": "jimeng-2026-10-23-8191-瓶子内的可乐液体到瓶口，别的都不变.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "bangkok": {
+        "folder": "cities/05-bangkok-曼谷/coca-cola",
+        "files": [
+          {
+            "file": "jimeng-2026-10-23-3516-A single hybrid vessel, not two objects,....png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-6222.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-7303.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "hanoi": {
+        "folder": "cities/06-hanoi-河内/coca-cola",
+        "files": [
+          {
+            "file": "河内 可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "ulaanbaatar": {
+        "folder": "cities/07-ulaanbaatar-乌兰巴托/coca-cola",
+        "files": [
+          {
+            "file": "乌兰巴托可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "乌兰巴托可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "mumbai": {
+        "folder": "cities/08-mumbai-孟买/coca-cola",
+        "files": [
+          {
+            "file": "孟买可乐1.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "孟买可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "istanbul": {
+        "folder": "cities/09-istanbul-伊斯坦布尔/coca-cola",
+        "files": [
+          {
+            "file": "伊斯坦布尔，可口可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "dubai": {
+        "folder": "cities/10-dubai-迪拜/coca-cola",
+        "files": [
+          {
+            "file": "迪拜，可口可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-1343.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-1451.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-2880.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "cairo": {
+        "folder": "cities/11-cairo-开罗/coca-cola",
+        "files": [
+          {
+            "file": "开罗，可口可乐1.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "开罗，可口可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "marrakech": {
+        "folder": "cities/12-marrakech-马拉喀什/coca-cola",
+        "files": []
+      },
+      "lagos": {
+        "folder": "cities/13-lagos-拉各斯/coca-cola",
+        "files": [
+          {
+            "file": "拉各斯，可口可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "paris": {
+        "folder": "cities/14-paris-巴黎/coca-cola",
+        "files": [
+          {
+            "file": "巴黎.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "巴黎2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "london": {
+        "folder": "cities/15-london-伦敦/coca-cola",
+        "files": [
+          {
+            "file": "伦敦 可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "伦敦 可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "伦敦 可乐3.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "edinburgh": {
+        "folder": "cities/16-edinburgh-爱丁堡/coca-cola",
+        "files": [
+          {
+            "file": "爱丁堡，可口可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "爱丁堡，可口可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "Edinburgh × Coca-Cola.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-8457.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "moscow": {
+        "folder": "cities/17-moscow-莫斯科/coca-cola",
+        "files": [
+          {
+            "file": "莫斯科，可口可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "莫斯科，可口可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "copenhagen": {
+        "folder": "cities/18-copenhagen-哥本哈根/coca-cola",
+        "files": [
+          {
+            "file": "哥本哈根 × 可口可乐1.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "哥本哈根 × 可口可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "哥本哈根，可口可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "helsinki": {
+        "folder": "cities/19-helsinki-赫尔辛基/coca-cola",
+        "files": [
+          {
+            "file": "芬兰.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "赫尔辛基 × 可口可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "赫尔辛基 × 可口可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "赫尔辛基 可乐1.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "赫尔辛基 可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "mexico-city": {
+        "folder": "cities/20-mexico-city-墨西哥城/coca-cola",
+        "files": [
+          {
+            "file": "墨西哥.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "墨西哥城 可口可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "墨西哥城.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "havana": {
+        "folder": "cities/21-havana-哈瓦那/coca-cola",
+        "files": [
+          {
+            "file": "哈瓦那 × 可口可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "rio-de-janeiro": {
+        "folder": "cities/22-rio-里约热内卢/coca-cola",
+        "files": [
+          {
+            "file": "里约热内卢，可口可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "new-york": {
+        "folder": "cities/23-new-york-纽约/coca-cola",
+        "files": [
+          {
+            "file": "纽约 可乐.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "sydney": {
+        "folder": "cities/24-sydney-悉尼/coca-cola",
+        "files": [
+          {
+            "file": "悉尼 可乐1.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "悉尼 可乐2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-3052.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      }
+    },
+    "moutai": {
+      "beijing": {
+        "folder": "cities/01-beijing-北京/moutai",
+        "files": [
+          {
+            "file": "北京.jpeg",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "kyoto": {
+        "folder": "cities/02-kyoto-京都/moutai",
+        "files": [
+          {
+            "file": "京都 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "京都茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-5825.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "tokyo": {
+        "folder": "cities/03-tokyo-东京/moutai",
+        "files": [
+          {
+            "file": "东京 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "东京_maotai.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "seoul": {
+        "folder": "cities/04-seoul-首尔/moutai",
+        "files": [
+          {
+            "file": "首尔 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "韩国首尔.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "jimeng-6248.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "bangkok": {
+        "folder": "cities/05-bangkok-曼谷/moutai",
+        "files": [
+          {
+            "file": "曼谷 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "曼谷 茅台2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "曼谷泰国.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "hanoi": {
+        "folder": "cities/06-hanoi-河内/moutai",
+        "files": [
+          {
+            "file": "河内.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "河内（越南）.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "ulaanbaatar": {
+        "folder": "cities/07-ulaanbaatar-乌兰巴托/moutai",
+        "files": [
+          {
+            "file": "蒙古.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "mumbai": {
+        "folder": "cities/08-mumbai-孟买/moutai",
+        "files": [
+          {
+            "file": "孟买茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "istanbul": {
+        "folder": "cities/09-istanbul-伊斯坦布尔/moutai",
+        "files": [
+          {
+            "file": "伊斯坦布尔 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "伊斯坦布尔 茅台2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "dubai": {
+        "folder": "cities/10-dubai-迪拜/moutai",
+        "files": []
+      },
+      "cairo": {
+        "folder": "cities/11-cairo-开罗/moutai",
+        "files": [
+          {
+            "file": "开罗 茅台2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "开罗茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "开罗茅台1.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "marrakech": {
+        "folder": "cities/12-marrakech-马拉喀什/moutai",
+        "files": [
+          {
+            "file": "马拉喀什茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "lagos": {
+        "folder": "cities/13-lagos-拉各斯/moutai",
+        "files": []
+      },
+      "paris": {
+        "folder": "cities/14-paris-巴黎/moutai",
+        "files": []
+      },
+      "london": {
+        "folder": "cities/15-london-伦敦/moutai",
+        "files": [
+          {
+            "file": "伦敦茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "edinburgh": {
+        "folder": "cities/16-edinburgh-爱丁堡/moutai",
+        "files": [
+          {
+            "file": "苏格兰.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "爱丁堡，茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "爱丁堡，茅台2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "Edinburgh × Moutai.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "Edinburgh × Moutai2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "moscow": {
+        "folder": "cities/17-moscow-莫斯科/moutai",
+        "files": [
+          {
+            "file": "莫斯科，茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "莫斯科，茅台2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "copenhagen": {
+        "folder": "cities/18-copenhagen-哥本哈根/moutai",
+        "files": [
+          {
+            "file": "哥本哈根 × 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "哥本哈根 丹麦.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "哥本哈根，茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "helsinki": {
+        "folder": "cities/19-helsinki-赫尔辛基/moutai",
+        "files": [
+          {
+            "file": "赫尔辛基 × 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "赫尔辛基 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "赫尔辛基（芬兰）.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "赫尔辛基茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "mexico-city": {
+        "folder": "cities/20-mexico-city-墨西哥城/moutai",
+        "files": [
+          {
+            "file": "墨西哥城 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "havana": {
+        "folder": "cities/21-havana-哈瓦那/moutai",
+        "files": [
+          {
+            "file": "哈瓦那 × 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "哈瓦那.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          },
+          {
+            "file": "哈瓦那2.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "rio-de-janeiro": {
+        "folder": "cities/22-rio-里约热内卢/moutai",
+        "files": [
+          {
+            "file": "里约热内卢.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "new-york": {
+        "folder": "cities/23-new-york-纽约/moutai",
+        "files": [
+          {
+            "file": "纽约.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      },
+      "sydney": {
+        "folder": "cities/24-sydney-悉尼/moutai",
+        "files": [
+          {
+            "file": "悉尼 茅台.png",
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "composite": "matte"
+          }
+        ]
+      }
+    }
+  }
+}
